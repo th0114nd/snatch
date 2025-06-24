@@ -4,8 +4,6 @@
 #include <thread>
 #include <vector>
 
-#include <boost/algorithm/string.hpp>
-
 #include <curlpp/Options.hpp>
 #include <curlpp/cURLpp.hpp>
 
@@ -72,7 +70,7 @@ fbstring acquire_id(fbstring line) {
         curlpp::Cleanup myCleanup;
         std::ostringstream os;
         os << curlpp::options::Url(url);
-        auto json_resp = os.str();     
+        auto json_resp = os.str();
         resp = folly::parseJson(json_resp);
     } catch (std::exception e) {
         std::cerr << "Connection to youtube search api failed" << std::endl;
@@ -150,7 +148,7 @@ int download(track_loc tl, fbstring dir) {
     auto artist = tl.artist.c_str();
     auto title = tl.title.c_str();
     auto cdir = dir.c_str();
-    
+
     cout << fbstring(id) << endl;
     cout << fbstring(artist) << endl;
     cout << fbstring(title) << endl;
@@ -158,7 +156,7 @@ int download(track_loc tl, fbstring dir) {
 
     if (py_download(id, fn_template)) {
         std::cerr << "Could not download file";
-        return 1; 
+        return 1;
     }
     label_song(filename, title, artist);
     return queue_song(filename);
@@ -175,7 +173,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    // One queue for "Artist: Title" user input and 
+    // One queue for "Artist: Title" user input and
     // one for the info about where to download such a track.
     folly::MPMCQueue<fbstring> artitles(10);
     folly::MPMCQueue<track_loc> track_locs(10);
@@ -203,7 +201,7 @@ int main(int argc, char *argv[]) {
             }
         }));
     }
-    
+
     auto dir = create_dir();
 
     // Downloaders take a video id and acquire the audio file

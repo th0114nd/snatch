@@ -1,0 +1,134 @@
+(snatch) (base) ~/snatch ❯❯❯ python ./download.py
+Dancing%20Queen%20-%20ABBA
+https://www.googleapis.com/youtube/v3/search?q=Dancing%20Queen%20-%20ABBA&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=xFrGuyw1V8s
+wedding_playlist/01 Dancing Queen - ABBA
+[download]   0.0% of  114.64MiB at  983.1
+[download]   0.0% of  114.64MiB at    2.0
+[download]   0.0% of  114.64MiB at    4.0
+[download]   0.0% of  114.64MiB at    7.8
+[download]   0.0% of  114.64MiB at    4.6
+[download]   0.1% of  114.64MiB at    3.9
+[download]   0.1% of  114.64MiB at    4.4
+[download]   0.2% of  114.64MiB at    5.1
+[download]   0.4% of  114.64MiB at    7.1
+[download]   0.9% of  114.64MiB at    7.4
+[download]   1.7% of  114.64MiB at    8.1
+[download]   3.5% of  114.64MiB at    9.7
+0
+Take%20on%20Me%20-%20A-ha
+https://www.googleapis.com/youtube/v3/search?q=Take%20on%20Me%20-%20A-ha&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=djV11Xbc914
+wedding_playlist/02 Take on Me - A-ha
+0
+Girls%20Just%20Want%20to%20have%20fun%20-%20Cyndi%20Lauper
+https://www.googleapis.com/youtube/v3/search?q=Girls%20Just%20Want%20to%20have%20fun%20-%20Cyndi%20Lauper&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=PIb6AZdTr-A
+wedding_playlist/03 Girls Just Want to have fun - Cyndi Lauper
+0
+Gimme%21%20Gimme%21%20Gimme%21%20-%20ABBA
+https://www.googleapis.com/youtube/v3/search?q=Gimme%21%20Gimme%21%20Gimme%21%20-%20ABBA&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=XEjLoHdbVeE
+wedding_playlist/04 Gimme! Gimme! Gimme! - ABBA
+0
+Gangnam%20Style%20-%20PSY
+https://www.googleapis.com/youtube/v3/search?q=Gangnam%20Style%20-%20PSY&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=9bZkp7q19f0
+wedding_playlist/05 Gangnam Style - PSY
+0
+Barbie%20Girl%20-%20Aqua
+https://www.googleapis.com/youtube/v3/search?q=Barbie%20Girl%20-%20Aqua&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=ZyhrYis509A
+wedding_playlist/06 Barbie Girl - Aqua
+0
+Crazy%20in%20Love%20-%20Beyonce%2C%20JAY-Z
+https://www.googleapis.com/youtube/v3/search?q=Crazy%20in%20Love%20-%20Beyonce%2C%20JAY-Z&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=ViwtNLUqkMY
+wedding_playlist/07 Crazy in Love - Beyonce, JAY-Z
+0
+Shalala%20Lala%20-%20Vengaboys
+https://www.googleapis.com/youtube/v3/search?q=Shalala%20Lala%20-%20Vengaboys&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=Obi4iELWJ3Y
+wedding_playlist/08 Shalala Lala - Vengaboys
+0
+Y.M.C.A.%20-%20Village%20People
+https://www.googleapis.com/youtube/v3/search?q=Y.M.C.A.%20-%20Village%20People&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=CS9OO0S5w2k
+wedding_playlist/09 Y.M.C.A. - Village People
+0
+Don%27t%20Stop%20Believing%20-%20Journey
+https://www.googleapis.com/youtube/v3/search?q=Don%27t%20Stop%20Believing%20-%20Journey&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=Pze8Dyqiky8
+wedding_playlist/10 Don't Stop Believing - Journey
+0
+One%20Way%20Ticket%20-%20Eruption
+https://www.googleapis.com/youtube/v3/search?q=One%20Way%20Ticket%20-%20Eruption&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=y60kqYFHzBk
+wedding_playlist/11 One Way Ticket - Eruption
+0
+I%20Wanna%20Dance%20with%20Somebody%20-%20Whitney%20Houston
+https://www.googleapis.com/youtube/v3/search?q=I%20Wanna%20Dance%20with%20Somebody%20-%20Whitney%20Houston&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=oKWPYxXkAS0
+wedding_playlist/12 I Wanna Dance with Somebody - Whitney Houston
+0
+A%20Thousand%20Miles%20-%20Vanessa%20Carlton
+https://www.googleapis.com/youtube/v3/search?q=A%20Thousand%20Miles%20-%20Vanessa%20Carlton&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=Cwkej79U3ek
+wedding_playlist/13 A Thousand Miles - Vanessa Carlton
+0
+One%20More%20Time%20-%20Daft%20Punk
+https://www.googleapis.com/youtube/v3/search?q=One%20More%20Time%20-%20Daft%20Punk&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=FGBhQbmPwH8
+wedding_playlist/14 One More Time - Daft Punk
+0
+Funkytown%20-%20Lipps%20Inc.
+https://www.googleapis.com/youtube/v3/search?q=Funkytown%20-%20Lipps%20Inc.&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=uhzy7JaU2Zc
+wedding_playlist/15 Funkytown - Lipps Inc.
+0
+I%20Love%20Rock%20%27N%20Roll%20-%20Joan%20Jett%20%26%20the%20Blackhearts
+https://www.googleapis.com/youtube/v3/search?q=I%20Love%20Rock%20%27N%20Roll%20-%20Joan%20Jett%20%26%20the%20Blackhearts&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=STG7w6h1IrM
+wedding_playlist/16 I Love Rock 'N Roll - Joan Jett & the Blackhearts
+0
+September%20-%20Earth%2C%20Wind%20%26%20Fire
+https://www.googleapis.com/youtube/v3/search?q=September%20-%20Earth%2C%20Wind%20%26%20Fire&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=jf_NKqwklKg
+wedding_playlist/17 September - Earth, Wind & Fire
+0
+Wannabe%20-%20Spice%20Girls
+https://www.googleapis.com/youtube/v3/search?q=Wannabe%20-%20Spice%20Girls&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=gJLIiF15wjQ
+wedding_playlist/18 Wannabe - Spice Girls
+0
+Heart%20of%20Glass%20-%20Blondie
+https://www.googleapis.com/youtube/v3/search?q=Heart%20of%20Glass%20-%20Blondie&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=WGU_4-5RaxU
+wedding_playlist/19 Heart of Glass - Blondie
+0
+Don%27t%20Stop%20Me%20Now%20-%20Queen
+https://www.googleapis.com/youtube/v3/search?q=Don%27t%20Stop%20Me%20Now%20-%20Queen&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=HgzGwKwLmgM
+wedding_playlist/20 Don't Stop Me Now - Queen
+0
+Hey%20Ya%21%20-%20Outkast
+https://www.googleapis.com/youtube/v3/search?q=Hey%20Ya%21%20-%20Outkast&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=RqIRp4QE-1k
+wedding_playlist/21 Hey Ya! - Outkast
+0
+We%20Will%20Rock%20You%20-%20Queen
+https://www.googleapis.com/youtube/v3/search?q=We%20Will%20Rock%20You%20-%20Queen&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=-tJYN-eG1zk
+wedding_playlist/22 We Will Rock You - Queen
+0
+Shut%20Up%20and%20Dance%20-%20Walk%20The%20Moon
+https://www.googleapis.com/youtube/v3/search?q=Shut%20Up%20and%20Dance%20-%20Walk%20The%20Moon&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=X8HUhFSLnl0
+wedding_playlist/23 Shut Up and Dance - Walk The Moon
+0
+Mr.%20Brightside%20-%20The%20Killers
+https://www.googleapis.com/youtube/v3/search?q=Mr.%20Brightside%20-%20The%20Killers&key=AIzaSyAH0uWu8gf2iy3c5ponbU2Gfsr2UGaVW9M&maxResults=1&part=snippet
+Downloading http://www.youtube.com/watch?v=gGdGFtwCNBE
+wedding_playlist/24 Mr. Brightside - The Killers
+0
+(snatch) (base) ~/snatch ❯❯❯
